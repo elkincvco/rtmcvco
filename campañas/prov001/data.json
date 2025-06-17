@@ -1,0 +1,139 @@
+{
+  "ID_CAMPAÑA": "PROV001-2025",
+  "NOMBRE_CAMPAÑA": "Campaña Digital - Laboratorio XYZ",
+  "PROVEEDOR_NOMBRE": "Laboratorio XYZ S.A.",
+  "PROVEEDOR_CONTACTO": "María García",
+  "PROVEEDOR_EMAIL": "maria.garcia@labxyz.com",
+  "PAQUETE_SELECCIONADO": "Paquete M",
+  "FECHA_INICIO": "2025-06-15",
+  "FECHA_FIN": "2025-06-29",
+  "DURACION_DIAS": 14,
+  "INVERSION_ORIGINAL": 47200000,
+  "INVERSION_DESCUENTO": 41700000,
+  "ESTADO_GENERAL": "En Producción",
+  "PROGRESO_PORCENTAJE": 0,
+  "ULTIMA_ACTUALIZACION": "2025-06-17T00:23:33.333Z", 
+  "PASOS": [
+    {
+      "ID_PASO": "step_001",
+      "NOMBRE_PASO": "Reunión de presentación",
+      "DESCRIPCION": "Presentación de paquetes y selecció Equipo",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital + Com",
+      "FECHA_PROGRAMADA": "2025-06-10",
+      "FECHA_REAL": "2025-06-10",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_002",
+      "NOMBRE_PASO": "Propuesta formal enviada",
+      "DESCRIPCION": "Propuesta con paquete My condició Completado",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-06-11",
+      "FECHA_REAL": "2025-06-11",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_003",
+      "NOMBRE_PASO": "Aprobación del proveedor",
+      "DESCRIPCION": "Confirmación recibida por correo ele Completado",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Laboratorio XYZ",
+      "FECHA_PROGRAMADA": "2025-06-12",
+      "FECHA_REAL": "2025-06-12",
+      "FASE": "Producción y Aprobacione"
+    },
+    {
+      "ID_PASO": "step_004",
+      "NOMBRE_PASO": "Definición de responsable",
+      "DESCRIPCION": "Equipo interno desarrollará las pieza Completado",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-13",
+      "FECHA_REAL": "2025-06-13",
+      "FASE": "Producción y Aprobacione"
+    },
+    {
+      "ID_PASO": "step_005",
+      "NOMBRE_PASO": "Desarrollo de piezas grafi",
+      "DESCRIPCION": "Creación de banners, cards y elemer Active",
+      "ESTADO": "Active",
+      "RESPONSABLE": "Equipo Creativo",
+      "FECHA_PROGRAMADA": "2025-06-16",
+      "FECHA_REAL": "2025-06-16",
+      "FASE": "Producción y Aprobacione"
+    },
+    {
+      "ID_PASO": "step_006",
+      "NOMBRE_PASO": "Registro INVIMA",
+      "DESCRIPCION": "Registro de piezas ante regula Pendin",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Legal",
+      "FECHA_PROGRAMADA": "2025-06-18",
+      "FECHA_REAL": null,
+      "FASE": "Producción y Aprobacione"
+    },
+    {
+      "ID_PASO": "step_007",
+      "NOMBRE_PASO": "Aprobación interna",
+      "DESCRIPCION": "Revisión y aprobación por equio ap Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Aprobador",
+      "FECHA_PROGRAMADA": "2025-06-19",
+      "FECHA_REAL": null,
+      "FASE": "Producción y Aprobacione"
+    },
+    {
+      "ID_PASO": "step_008",
+      "NOMBRE_PASO": "Generación de factura",
+      "DESCRIPCION": "Facturación por $41.700.000 según Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-06-20",
+      "FECHA_REAL": null,
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_009",
+      "NOMBRE_PASO": "Confirmación de pago",
+      "DESCRIPCION": "⚠️ GATE CRÍTICO - Requerido para i Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-06-22",
+      "FECHA_REAL": null,
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_010",
+      "NOMBRE_PASO": "Lanzamiento de campaña",
+      "DESCRIPCION": "Activación en todos los medios del p Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-25",
+      "FECHA_REAL": null,
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_011",
+      "NOMBRE_PASO": "Monitoreo de campaña",
+      "DESCRIPCION": "Seguimiento diario de métricas y per Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-25",
+      "FECHA_REAL": null,
+      "FASE": "Monitoreo y Reporte"
+    },
+    {
+      "ID_PASO": "step_012",
+      "NOMBRE_PASO": "Reporte de resultados",
+      "DESCRIPCION": "Generación de informe con métricas Pending",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-30",
+      "FECHA_REAL": null,
+      "FASE": "Monitoreo y Reporte"
+    }
+  ],
+  "COMUNICACIONES": []
+}
