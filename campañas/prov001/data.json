@@ -1,24 +1,26 @@
 {
-  "ID_CAMPAÑA": "PROV00AAAAAAAAA1-2025",
+  "ID_CAMPAÑA": "PROV001-2025",
   "NOMBRE_CAMPAÑA": "Campaña Digital - Laboratorio XYZ",
   "PROVEEDOR_NOMBRE": "Laboratorio XYZ S.A.",
   "PROVEEDOR_CONTACTO": "María García",
   "PROVEEDOR_EMAIL": "maria.garcia@labxyz.com",
   "PAQUETE_SELECCIONADO": "Paquete M",
+  "OBJETIVO_CAMPAÑA": "Aumentar conversiones en 25%", 
   "FECHA_INICIO": "2025-06-15",
   "FECHA_FIN": "2025-06-29",
   "DURACION_DIAS": 14,
   "INVERSION_ORIGINAL": 47200000,
   "INVERSION_DESCUENTO": 41700000,
+  "INVERSION_CRUZ_VERDE": 12500000,
   "ESTADO_GENERAL": "En Producción",
-  "PROGRESO_PORCENTAJE": 0,
+  "PROGRESO_PORCENTAJE": 78,
   "ULTIMA_ACTUALIZACION": "2025-06-17T00:23:33.333Z", 
   "PASOS": [
     {
       "ID_PASO": "step_001",
       "NOMBRE_PASO": "Reunión de presentación",
-      "DESCRIPCION": "Presentación de paquetes y selecció Equipo",
-      "ESTADO": "Completado",
+      "DESCRIPCION": "Presentación de paquetes y selección del equipo responsable para el desarrollo de la campaña digital. Se definieron objetivos, alcance y metodología de trabajo.",
+      "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Digital + Com",
       "FECHA_PROGRAMADA": "2025-06-10",
       "FECHA_REAL": "2025-06-10",
@@ -27,7 +29,7 @@
     {
       "ID_PASO": "step_002",
       "NOMBRE_PASO": "Propuesta formal enviada",
-      "DESCRIPCION": "Propuesta con paquete My condició Completado",
+      "DESCRIPCION": "Propuesta con paquete M y condiciones comerciales definitivas enviada al laboratorio. Incluye cronograma detallado, entregables y condiciones de pago.",
       "ESTADO": "Completado",
       "RESPONSABLE": "Equipo Compras",
       "FECHA_PROGRAMADA": "2025-06-11",
@@ -37,57 +39,67 @@
     {
       "ID_PASO": "step_003",
       "NOMBRE_PASO": "Aprobación del proveedor",
-      "DESCRIPCION": "Confirmación recibida por correo ele Completado",
+      "DESCRIPCION": "Confirmación recibida por correo electrónico con la aprobación del laboratorio para proceder con la campaña según los términos acordados.",
       "ESTADO": "Completado",
       "RESPONSABLE": "Laboratorio XYZ",
       "FECHA_PROGRAMADA": "2025-06-12",
       "FECHA_REAL": "2025-06-12",
-      "FASE": "Producción y Aprobacione"
+      "FASE": "Negociación y Aprobación"
     },
     {
       "ID_PASO": "step_004",
       "NOMBRE_PASO": "Definición de responsable",
-      "DESCRIPCION": "Equipo interno desarrollará las pieza Completado",
+      "DESCRIPCION": "Equipo interno desarrollará las piezas gráficas y contenido para la campaña. Se asignaron roles específicos y responsabilidades de cada área.",
       "ESTADO": "Completado",
       "RESPONSABLE": "Equipo Digital",
       "FECHA_PROGRAMADA": "2025-06-13",
       "FECHA_REAL": "2025-06-13",
-      "FASE": "Producción y Aprobacione"
+      "FASE": "Producción y Aprobaciones"
     },
     {
       "ID_PASO": "step_005",
-      "NOMBRE_PASO": "Desarrollo de piezas grafi",
-      "DESCRIPCION": "Creación de banners, cards y elemer Active",
+      "NOMBRE_PASO": "Desarrollo de piezas gráficas",
+      "DESCRIPCION": "Creación de banners, cards y elementos visuales para todos los canales digitales. Desarrollo de creatividades para redes sociales, email marketing y aplicaciones móviles.",
       "ESTADO": "Active",
       "RESPONSABLE": "Equipo Creativo",
       "FECHA_PROGRAMADA": "2025-06-16",
       "FECHA_REAL": "2025-06-16",
-      "FASE": "Producción y Aprobacione"
+      "FASE": "Producción y Aprobaciones"
     },
+    {
+      "ID_PASO": "step_005",
+      "NOMBRE_PASO": "Desarrollo de piezas gráficas",
+      "DESCRIPCION": "Creación de banners, cards y elementos visuales para todos los canales digitales. Desarrollo de creatividades para redes sociales, email marketing y aplicaciones móviles.",
+      "ESTADO": "Active",
+      "RESPONSABLE": "Equipo Creativo",
+      "FECHA_PROGRAMADA": "2025-06-16",
+      "FECHA_REAL": "2025-06-16",
+      "FASE": "Producción y Aprobaciones"
+    },    
     {
       "ID_PASO": "step_006",
       "NOMBRE_PASO": "Registro INVIMA",
-      "DESCRIPCION": "Registro de piezas ante regula Pendin",
+      "DESCRIPCION": "Registro de piezas ante el regulador sanitario para cumplimiento normativo. Todas las piezas publicitarias deben contar con aprobación INVIMA antes del lanzamiento.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Legal",
       "FECHA_PROGRAMADA": "2025-06-18",
       "FECHA_REAL": null,
-      "FASE": "Producción y Aprobacione"
+      "FASE": "Producción y Aprobaciones"
     },
     {
       "ID_PASO": "step_007",
       "NOMBRE_PASO": "Aprobación interna",
-      "DESCRIPCION": "Revisión y aprobación por equio ap Pending",
+      "DESCRIPCION": "Revisión y aprobación por equipo aprobador interno antes del lanzamiento. Validación de contenido, mensaje y cumplimiento de políticas corporativas.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Aprobador",
       "FECHA_PROGRAMADA": "2025-06-19",
       "FECHA_REAL": null,
-      "FASE": "Producción y Aprobacione"
+      "FASE": "Producción y Aprobaciones"
     },
     {
       "ID_PASO": "step_008",
       "NOMBRE_PASO": "Generación de factura",
-      "DESCRIPCION": "Facturación por $41.700.000 según Pending",
+      "DESCRIPCION": "Facturación por $41.700.000 según condiciones acordadas en la propuesta comercial. Incluye términos de pago y cronograma de desembolsos.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Compras",
       "FECHA_PROGRAMADA": "2025-06-20",
@@ -97,7 +109,7 @@
     {
       "ID_PASO": "step_009",
       "NOMBRE_PASO": "Confirmación de pago",
-      "DESCRIPCION": "⚠️ GATE CRÍTICO - Requerido para i Pending",
+      "DESCRIPCION": "⚠️ GATE CRÍTICO - Requerido para inicio de campaña. Sin confirmación de pago no se puede proceder con el lanzamiento de la campaña publicitaria.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Compras",
       "FECHA_PROGRAMADA": "2025-06-22",
@@ -107,7 +119,7 @@
     {
       "ID_PASO": "step_010",
       "NOMBRE_PASO": "Lanzamiento de campaña",
-      "DESCRIPCION": "Activación en todos los medios del p Pending",
+      "DESCRIPCION": "Activación en todos los medios del paquete seleccionado. Inicio simultáneo en plataformas digitales, email marketing, SMS y notificaciones push.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Digital",
       "FECHA_PROGRAMADA": "2025-06-25",
@@ -117,7 +129,7 @@
     {
       "ID_PASO": "step_011",
       "NOMBRE_PASO": "Monitoreo de campaña",
-      "DESCRIPCION": "Seguimiento diario de métricas y per Pending",
+      "DESCRIPCION": "Seguimiento diario de métricas y performance durante la campaña. Monitoreo de KPIs, optimización en tiempo real y reportes de progreso.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Digital",
       "FECHA_PROGRAMADA": "2025-06-25",
@@ -127,7 +139,7 @@
     {
       "ID_PASO": "step_012",
       "NOMBRE_PASO": "Reporte de resultados",
-      "DESCRIPCION": "Generación de informe con métricas Pending",
+      "DESCRIPCION": "Generación de informe con métricas y resultados finales de la campaña. Análisis de performance, ROI y recomendaciones para futuras campañas.",
       "ESTADO": "Pending",
       "RESPONSABLE": "Equipo Digital",
       "FECHA_PROGRAMADA": "2025-06-30",
@@ -135,5 +147,104 @@
       "FASE": "Monitoreo y Reporte"
     }
   ],
-  "COMUNICACIONES": []
+  "COMUNICACIONES": [
+    {
+      "titulo": "Reunión de kickoff realizada exitosamente",
+      "fecha": "2025-06-10T19:00:00.000Z"
+    },
+    {
+      "titulo": "Propuesta comercial enviada y recibida",
+      "fecha": "2025-06-11T15:30:00.000Z"
+    },
+    {
+      "titulo": "Aprobación confirmada por el laboratorio",
+      "fecha": "2025-06-12T10:15:00.000Z"
+    },
+    {
+      "titulo": "Asignación de equipos de trabajo completada",
+      "fecha": "2025-06-13T14:45:00.000Z"
+    }
+  ],
+  "RESULTADOS": {
+    "ventas": {
+      "valor": 425680000,
+      "cambio": 28.5,
+      "tipo": "positive",
+      "label": "Ventas"
+    },
+    "crecimiento_categoria": {
+      "valor": 32.4,
+      "cambio": 15.2,
+      "tipo": "positive",
+      "label": "Crecimiento Categoría"
+    },
+    "roas": {
+      "valor": 4.2,
+      "cambio": 0.8,
+      "tipo": "positive",
+      "label": "ROAS"
+    },
+    "impresiones": {
+      "valor": 2800000,
+      "cambio": 45.6,
+      "tipo": "positive",
+      "label": "Impresiones"
+    },
+    "cpm": {
+      "valor": 12500,
+      "cambio": -2.1,
+      "tipo": "neutral",
+      "label": "CPM"
+    },
+    "sesiones": {
+      "valor": 156200,
+      "cambio": 34.7,
+      "tipo": "positive",
+      "label": "Sesiones"
+    },
+    "elasticidad_general": {
+      "valor": 1.8,
+      "cambio": 0.3,
+      "tipo": "positive",
+      "label": "Elasticidad General"
+    },
+    "envios_email": {
+      "valor": 45300,
+      "cambio": 22.1,
+      "tipo": "positive",
+      "label": "Envíos Email"
+    },
+    "open_rate": {
+      "valor": 24.8,
+      "cambio": 3.2,
+      "tipo": "positive",
+      "label": "Open Rate"
+    },
+    "envios_sms": {
+      "valor": 12700,
+      "cambio": 18.9,
+      "tipo": "positive",
+      "label": "Envíos SMS"
+    },
+    "click_sms": {
+      "valor": 8.4,
+      "cambio": 2.1,
+      "tipo": "positive",
+      "label": "Click SMS"
+    },
+    "envios_push_app": {
+      "valor": 28900,
+      "cambio": 41.3,
+      "tipo": "positive",
+      "label": "Envíos Push App"
+    }
+  },
+  "NOTAS_GENERALES": [
+    "La campaña está en fase de producción con avance del 35% según cronograma establecido.",
+    "El equipo creativo ha iniciado el desarrollo de piezas gráficas con entrega programada para el 18 de junio.",
+    "Se debe completar el registro INVIMA antes de proceder con la aprobación interna para cumplir normativas.",
+    "El gate crítico de confirmación de pago es fundamental para el lanzamiento programado el 25 de junio.",
+    "La inversión Cruz Verde complementaria de $12.500.000 fue aprobada para maximizar el alcance de la campaña.",
+    "Se recomienda mantener monitoreo constante durante la fase de producción para evitar retrasos."
+  ]
 }
