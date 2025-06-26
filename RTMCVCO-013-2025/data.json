@@ -1,0 +1,248 @@
+{
+  "ID_CAMPAÑA": "RTMCVCO-013-2025",
+  "NOMBRE_CAMPAÑA": "Activación 01 Digital Abbott",
+  "OBJETIVO_CAMPAÑA": "Performance",
+  "PROVEEDOR_NOMBRE": "Abbott",
+  "PROVEEDOR_CONTACTO": "Diana Paola Mercado",
+  "PROVEEDOR_EMAIL": "dianapaola.mercado@abbott.com",
+  "PAQUETE_SELECCIONADO": "Paquete XXS Personalizado",
+  "FECHA_INICIO": "",
+  "FECHA_FIN": "",
+  "DURACION_DIAS": null,
+  "INVERSION_ORIGINAL": 80000000,
+  "INVERSION_DESCUENTO": 78600000,
+  "INVERSION_CRUZ_VERDE": 1000000,
+  "ESTADO_GENERAL": "En alineación y setup",
+  "PROGRESO_PORCENTAJE": 5,
+  "ULTIMA_ACTUALIZACION": "2025-06-26T19:33:44.786Z",
+  "PASOS": [
+    {
+      "ID_PASO": "step_001",
+      "NOMBRE_PASO": "Reunión de presentación",
+      "DESCRIPCION": "Presentación de los paquetes disponibles, delimitación de alcances y atención a inquietudes",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital + Compras",
+      "FECHA_PROGRAMADA": "2025-05-05",
+      "FECHA_REAL": "2025-05-05",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_002",
+      "NOMBRE_PASO": "Propuesta formal enviada",
+      "DESCRIPCION": "Propuesta con paquetes y condiciones según necesidades Abbott",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital + Compras",
+      "FECHA_PROGRAMADA": "2025-05-15",
+      "FECHA_REAL": "2025-05-22",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_003",
+      "NOMBRE_PASO": "Aprobación del proveedor",
+      "DESCRIPCION": "Confirmación recibida por correo electrónico luego de ajustes en la negociación ",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Abbott",
+      "FECHA_PROGRAMADA": "2025-06-24",
+      "FECHA_REAL": "2025-06-24",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_004",
+      "NOMBRE_PASO": "Definición del método de cobro",
+      "DESCRIPCION": "Establecer la metodología y proceso de facturación del paquete contratado",
+      "ESTADO": "Active",
+      "RESPONSABLE": "Compras + Abbott",
+      "FECHA_PROGRAMADA": "2025-06-29",
+      "FECHA_REAL": "",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_005",
+      "NOMBRE_PASO": "Definición de responsable de piezas",
+      "DESCRIPCION": "Pendiente por definición de operatividad de bajada de assets para las activaciones acordadas ",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Abbott + Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-29",
+      "FECHA_REAL": "2025-06-12",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_006",
+      "NOMBRE_PASO": "Desarrollo de piezas gráficas",
+      "DESCRIPCION": "Creación de banners, cards y elementos para redes sociales",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Abbott",
+      "FECHA_PROGRAMADA": "2025-07-06",
+      "FECHA_REAL": "2025-06-13",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_007",
+      "NOMBRE_PASO": "Registro INVIMA",
+      "DESCRIPCION": "Registro de piezas ante ente regulador (si aplica)",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Abbott",
+      "FECHA_PROGRAMADA": "2025-07-06",
+      "FECHA_REAL": "",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_008",
+      "NOMBRE_PASO": "Aprobación interna",
+      "DESCRIPCION": "Revisión y aprobación por equipo aprobador",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital + Aprobadores",
+      "FECHA_PROGRAMADA": "2025-07-13",
+      "FECHA_REAL": "",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_009",
+      "NOMBRE_PASO": "Alineación de llamado",
+      "DESCRIPCION": "Pendiente definición de oferta comercial para activación 01 del paquete acordado ",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras + Equipo Digital + Abbott",
+      "FECHA_PROGRAMADA": "2025-07-08",
+      "FECHA_REAL": "",
+      "FASE": "Definición oferta comercial"
+    },
+    {
+      "ID_PASO": "step_010",
+      "NOMBRE_PASO": "Generación de factura",
+      "DESCRIPCION": "Facturación por $78.600.000 según acuerdo",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-06-29",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_011",
+      "NOMBRE_PASO": "Confirmación de pago",
+      "DESCRIPCION": "⚠️ GATE CRÍTICO - Requerido para proceder",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-07-03",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_012",
+      "NOMBRE_PASO": "Lanzamiento de campaña",
+      "DESCRIPCION": "Activación en todos los medios del paquete acordado",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-07-06",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_013",
+      "NOMBRE_PASO": "Monitoreo de campaña",
+      "DESCRIPCION": "Seguimiento diario de métricas y performance",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-07-06",
+      "FECHA_REAL": "",
+      "FASE": "Monitoreo y Reporte"
+    },
+    {
+      "ID_PASO": "step_014",
+      "NOMBRE_PASO": "Reporte de resultados",
+      "DESCRIPCION": "Generación de informe con métricas y ROI",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-07-29",
+      "FECHA_REAL": "",
+      "FASE": "Monitoreo y Reporte"
+    }
+  ],
+  "COMUNICACIONES": [
+    {
+      "titulo": "Reunión de presentación realizada exitosamente",
+      "fecha": "2025-05-07T04:56:16.000Z"
+    },
+    {
+      "titulo": "Alineación de configuración y alcances del paquete seleccionado",
+      "fecha": "2025-06-25T04:56:16.000Z"
+    }
+  ],
+  "RESULTADOS": {
+    "ventas": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "ventas"
+    },
+    "crecimiento_categoria": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "crecimiento_categoria"
+    },
+    "roas": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "roas"
+    },
+    "impresiones": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "impresiones"
+    },
+    "cpm": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "cpm"
+    },
+    "sesiones": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "sesiones"
+    },
+    "elasticidad_general": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "elasticidad_general"
+    },
+    "envios_email": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_email"
+    },
+    "open_rate": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "open_rate"
+    },
+    "envios_sms": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_sms"
+    },
+    "click_sms": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "click_sms"
+    },
+    "envios_push_app": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_push_app"
+    }
+  },
+  "NOTAS_GENERALES": [
+    "Se recomienda elegir marca y sku foco por activación.",
+    "Invitación a analizar fechas de activación en alineación con calendario comercial CVCO"
+  ]
+}
