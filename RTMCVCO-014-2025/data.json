@@ -1,0 +1,256 @@
+{
+  "ID_CAMPAÑA": "RTMCVCO-014-2025",
+  "NOMBRE_CAMPAÑA": "Activación NAN OPTIPRO Y KLIM GUMS",
+  "OBJETIVO_CAMPAÑA": "Performance",
+  "PROVEEDOR_NOMBRE": "Nestlé",
+  "PROVEEDOR_CONTACTO": "Luisa Vicaría",
+  "PROVEEDOR_EMAIL": "Luisa.Vicaria@co.nestle.com",
+  "PAQUETE_SELECCIONADO": "Paquete XXS Personalizado",
+  "FECHA_INICIO": "2025-07-17",
+  "FECHA_FIN": "2025-08-16",
+  "DURACION_DIAS": 30,
+  "INVERSION_ORIGINAL": 20000000,
+  "INVERSION_DESCUENTO": 20000000,
+  "INVERSION_CRUZ_VERDE": 1000000,
+  "ESTADO_GENERAL": "En setup y desarrollo",
+  "PROGRESO_PORCENTAJE": 10,
+  "ULTIMA_ACTUALIZACION": "2025-07-02T14:29:29.912Z",
+  "PASOS": [
+    {
+      "ID_PASO": "step_001",
+      "NOMBRE_PASO": "Reunión de presentación",
+      "DESCRIPCION": "Presentación de los paquetes disponibles, delimitación de alcances y atención a inquietudes",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital + Compras",
+      "FECHA_PROGRAMADA": "2025-05-19",
+      "FECHA_REAL": "2025-05-19",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_002",
+      "NOMBRE_PASO": "Propuesta formal enviada",
+      "DESCRIPCION": "Propuesta con paquetes según necesidades de Nestlé en el canal",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Equipo Digital + Compras",
+      "FECHA_PROGRAMADA": "2025-05-20",
+      "FECHA_REAL": "2025-05-21",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_003",
+      "NOMBRE_PASO": "Aprobación del proveedor",
+      "DESCRIPCION": "Confirmación recibida por correo electrónico luego de ajustes en  el tamaño del paquete y la duración de este ",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Nestlé",
+      "FECHA_PROGRAMADA": "2025-06-08",
+      "FECHA_REAL": "2025-06-30",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_004",
+      "NOMBRE_PASO": "Definición del método de cobro",
+      "DESCRIPCION": "Establecer la metodología y proceso de facturación del paquete contratado",
+      "ESTADO": "Active",
+      "RESPONSABLE": "Compras + Nestlé",
+      "FECHA_PROGRAMADA": "2025-07-10",
+      "FECHA_REAL": "",
+      "FASE": "Negociación y Aprobación"
+    },
+    {
+      "ID_PASO": "step_005",
+      "NOMBRE_PASO": "Alineación de llamado",
+      "DESCRIPCION": "Definición de oferta comercial para activación del paquete acordado en marcas Nan  y Klim",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras + Equipo Digital + Nestlé",
+      "FECHA_PROGRAMADA": "2025-07-10",
+      "FECHA_REAL": "",
+      "FASE": "Definición oferta comercial"
+    },
+    {
+      "ID_PASO": "step_006",
+      "NOMBRE_PASO": "Definición de responsable de piezas",
+      "DESCRIPCION": "El quipo Nestlé desarrollará los assets necesarios para la activación de la compaña. Guías y requerimientos de estos assets en hilo de comunicación en correo de la campaña. ",
+      "ESTADO": "Completado",
+      "RESPONSABLE": "Nestlé + Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-06-09",
+      "FECHA_REAL": "2025-06-30",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_007",
+      "NOMBRE_PASO": "Desarrollo de piezas gráficas",
+      "DESCRIPCION": "Creación de assets (onsite y offsite) para campaña bajo lineamientos CV y Nestlé ",
+      "ESTADO": "Active",
+      "RESPONSABLE": "Nestlé",
+      "FECHA_PROGRAMADA": "2025-07-13",
+      "FECHA_REAL": "2025-06-13",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_008",
+      "NOMBRE_PASO": "Registro INVIMA",
+      "DESCRIPCION": "Registro de piezas ante ente regulador (si aplica)",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Nestlé",
+      "FECHA_PROGRAMADA": "2025-07-09",
+      "FECHA_REAL": "",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_009",
+      "NOMBRE_PASO": "Aprobación interna",
+      "DESCRIPCION": "Revisión y aprobación por equipo aprobador",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital + Aprobadores",
+      "FECHA_PROGRAMADA": "2025-07-14",
+      "FECHA_REAL": "",
+      "FASE": "Producción y Aprobaciones"
+    },
+    {
+      "ID_PASO": "step_010",
+      "NOMBRE_PASO": "Generación de factura",
+      "DESCRIPCION": "Facturación por $20.000.000 según acuerdo",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-07-14",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_011",
+      "NOMBRE_PASO": "Confirmación de pago",
+      "DESCRIPCION": "⚠️ GATE CRÍTICO - Requerido para proceder",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Compras",
+      "FECHA_PROGRAMADA": "2025-07-16",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_012",
+      "NOMBRE_PASO": "Lanzamiento de campaña",
+      "DESCRIPCION": "Activación en todos los medios del paquete acordado",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-07-17",
+      "FECHA_REAL": "",
+      "FASE": "Facturación y Despliegue"
+    },
+    {
+      "ID_PASO": "step_013",
+      "NOMBRE_PASO": "Monitoreo de campaña",
+      "DESCRIPCION": "Seguimiento diario de métricas y performance",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-07-18",
+      "FECHA_REAL": "",
+      "FASE": "Monitoreo y Reporte"
+    },
+    {
+      "ID_PASO": "step_014",
+      "NOMBRE_PASO": "Reporte de resultados",
+      "DESCRIPCION": "Actualización de informe de indicadores en tablero de seguimiento y socialización si es requerida ",
+      "ESTADO": "Pending",
+      "RESPONSABLE": "Equipo Digital",
+      "FECHA_PROGRAMADA": "2025-08-19",
+      "FECHA_REAL": "",
+      "FASE": "Monitoreo y Reporte"
+    }
+  ],
+  "COMUNICACIONES": [
+    {
+      "titulo": "Reunión de presentación realizada exitosamente",
+      "fecha": "2025-05-20T04:56:16.000Z"
+    },
+    {
+      "titulo": "Revisión data venta Nestlé en canales remotos CV",
+      "fecha": "2025-05-22T04:56:16.000Z"
+    },
+    {
+      "titulo": "Definición de dos marcas y referencias para activación de la compaña",
+      "fecha": "2025-06-17T04:56:16.000Z"
+    },
+    {
+      "titulo": "Construcción de un paquete personalizado como excepción a la oferta de paquetes actuales para Nestlé ",
+      "fecha": "2025-06-30T04:56:16.000Z"
+    }
+  ],
+  "RESULTADOS": {
+    "ventas": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "ventas"
+    },
+    "crecimiento_categoria": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "crecimiento_categoria"
+    },
+    "roas": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "roas"
+    },
+    "impresiones": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "impresiones"
+    },
+    "cpm": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "cpm"
+    },
+    "sesiones": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "sesiones"
+    },
+    "elasticidad_general": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "elasticidad_general"
+    },
+    "envios_email": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_email"
+    },
+    "open_rate": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "open_rate"
+    },
+    "envios_sms": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_sms"
+    },
+    "click_sms": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "click_sms"
+    },
+    "envios_push_app": {
+      "valor": 0,
+      "cambio": 0,
+      "tipo": "neutral",
+      "label": "envios_push_app"
+    }
+  },
+  "NOTAS_GENERALES": [
+    "Referencias a activar: AN OPTIPRO Y KLIM GUMS",
+    "Invitación a analizar fechas de activación en alineación con calendario comercial CVCO"
+  ]
+}
